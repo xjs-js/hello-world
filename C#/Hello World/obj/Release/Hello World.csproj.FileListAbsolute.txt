@@ -1,0 +1,6 @@
+D:\Code\C#\NIIT\Hello World\Hello World\bin\Release\Hello World.exe.config
+D:\Code\C#\NIIT\Hello World\Hello World\bin\Release\Hello World.exe
+D:\Code\C#\NIIT\Hello World\Hello World\bin\Release\Hello World.pdb
+D:\Code\C#\NIIT\Hello World\Hello World\obj\Release\Hello World.csprojResolveAssemblyReference.cache
+D:\Code\C#\NIIT\Hello World\Hello World\obj\Release\Hello World.exe
+D:\Code\C#\NIIT\Hello World\Hello World\obj\Release\Hello World.pdb
