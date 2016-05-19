@@ -1,6 +1,0 @@
-D:\Code\C#\NIIT\Hello World\Hello World\bin\Debug\Hello World.exe.config
-D:\Code\C#\NIIT\Hello World\Hello World\bin\Debug\Hello World.exe
-D:\Code\C#\NIIT\Hello World\Hello World\bin\Debug\Hello World.pdb
-D:\Code\C#\NIIT\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
-D:\Code\C#\NIIT\Hello World\Hello World\obj\Debug\Hello World.exe
-D:\Code\C#\NIIT\Hello World\Hello World\obj\Debug\Hello World.pdb
